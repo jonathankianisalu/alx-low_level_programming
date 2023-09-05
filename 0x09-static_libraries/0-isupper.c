@@ -1,4 +1,4 @@
-#include "main.h"
+#!/bin/bash "main.h"
 
 /**
  * _isupper - checks for uppercase character
